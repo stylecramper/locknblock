@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "PAN": "5000114092925566",
+        "nickname": "The Donald",
+        "locks": [
+            {
+                "type": "CRD",
+                "value": "L"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "PAN": "5000110447460917",
+        "nickname": "My Second Card",
+        "locks": [
+            {
+                "type": "ATM",
+                "value": "L"
+            },
+            {
+                "type": "INT",
+                "value": "L"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "PAN": "5000110431424224",
+        "nickname": "My Third Card",
+        "locks": [
+            {
+                "type": "ATM",
+                "value": "L"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "PAN": "5000114094835005",
+        "nickname": "A Card With Many Locks",
+        "locks": [
+            {
+                "type": "CRD",
+                "value": "L"
+            },
+            {
+                "type": "ATM",
+                "value": "L"
+            },
+            {
+                "type": "POS",
+                "value": "L"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "PAN": "5050114094835081",
+        "nickname": "A Card With No Locks",
+        "locks": []
+    },
+    {
+        "id": 6,
+        "PAN": "5666114094835808",
+        "nickname": "A New Card With No Locks",
+        "locks": []
+    },
+    {
+        "id": 7,
+        "PAN": "5666114094835808",
+        "nickname": "A New Card With No Locks",
+        "locks": []
+    },
+    {
+        "id": 8,
+        "PAN": "5666114094835808",
+        "nickname": "Card To Make the List Longer",
+        "locks": []
+    }
+]
